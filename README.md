@@ -26,3 +26,4 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 
 ## 🕸️Let's Connect
 
+- My Gmail: gauravkhadse58@gmail.com
