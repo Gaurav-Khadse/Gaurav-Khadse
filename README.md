@@ -27,4 +27,4 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 ## 🕸️Let's Connect
 
 - 📧 Email: [gauravkhadse58@gmail.com](mailto:gauravkhadse58@gmail.com) 
-- 📧 **Email**: <a href="mailto:khadsegaurav58@gmail.com">khadsegaurav58@gmail.com</a>
+- 📧 **Email**: <a href="mailto:gauravkhadse58@gmail.com">gauravkhadse58@gmail.com</a>
