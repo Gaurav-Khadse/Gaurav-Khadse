@@ -11,7 +11,7 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 - Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
 
 
-⚙️Skills
+## ⚙️Skills
 
 - Language: SQL, Python
 - Database: PostgreSQL, MySQL
