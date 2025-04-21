@@ -17,3 +17,6 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 - Database: PostgreSQL, MySQL
 - Visualization: Power BI, Tableau
 - Spreadsheet: MS Excel
+
+### 🖇️ Projects  
+🔗 **Check out my [Project Portfolio](https://github.com/Gaurav-Khadse?tab=repositories)**:  
