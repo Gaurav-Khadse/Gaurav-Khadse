@@ -19,4 +19,4 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 - Spreadsheet: MS Excel
 
 ### 🖇️ Projects  
-🔗 **Check out my Project Portfolio: [My Projects](https://github.com/Gaurav-Khadse?tab=repositories)**:  
+🔗 **Check out my Project Portfolio: [My Projects](https://github.com/Gaurav-Khadse?tab=repositories)** 
