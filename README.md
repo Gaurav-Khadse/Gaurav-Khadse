@@ -17,7 +17,7 @@ I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS 
 ## ⚙️Skills
 
 - Language: SQL, Python
-- Database: PostgreSQL, MySQL
+- Database: Microsoft SQL Server, PostgreSQL, MySQL
 - Visualization: Power BI, Tableau
 - Spreadsheet: MS Excel
 
