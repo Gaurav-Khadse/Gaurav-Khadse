@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Introducing myself,
 
-<!--
-**Gaurav-Khadse/Gaurav-Khadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau.
 
-Here are some ideas to get you started:
+SQL : Proficient in querying and manipulating data with SQL.
+Python : Utilizes Python for data wrangling and advanced analytics.
+Excel : Generates reports and performs data analysis using MS Excel.
+Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
+R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️Skills
+Language: SQL, Python
+Database: PostgreSQL, MySQL
+Visualization: Power BI, Tableau
+Spreadsheet: MS Excel
