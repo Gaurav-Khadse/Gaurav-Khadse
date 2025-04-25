@@ -1,6 +1,6 @@
 ## Hi there 👋 Introducing myself,
 
-![Black Gold Minimalist Elegant Business LinkedIn Banner](https://github.com/user-attachments/assets/8f8c6fdc-dd84-4c1f-9eea-de8f48e65279)
+![Black Gold Minimalist Elegant Business LinkedIn Banner](https://github.com/user-attachments/assets/ba531513-31e4-4d88-b1e4-8eb4c6e061c7)
 
 
 I'm Gaurav Khadse, a passionate Data Analyst with an array of skills in SQL, MS Excel, Python, Power BI, Tableau.
